@@ -51,4 +51,4 @@ Titanic-Excel-Analysis/
 3. Explore the KPIs and Dashboard using the interactive slicers.
 
 ---
-👩‍💻 Created by [Your Name]
+👩‍💻 Created by Nora Raafat
