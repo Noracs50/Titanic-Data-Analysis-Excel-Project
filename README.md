@@ -1,4 +1,4 @@
-# Titanic Analysis Project (Excel Only)
+# Titanic Analysis Project Using Excel
 
 ## 📌 Overview
 This project analyzes the Titanic dataset using **Excel only**.  
